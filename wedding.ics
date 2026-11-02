@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Jairaj & Apeksha//Wedding//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:jairaj-apeksha-wedding-2026@invite
+DTSTAMP:20261102T000000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261207
+SUMMARY:Jairaj & Apeksha — Wedding
+LOCATION:Tharavadu Mane\, Yelahanka\, Bengaluru
+DESCRIPTION:Sat 5 Dec: Baarat\, Vratham & Games 9:00 AM\; Sangeet 6:00 PM (Tharavadu Mane). Sun 6 Dec: Muhurtham 8:00 AM (Tharavadu Mane)\; Reception 6:00 PM (Peacock Grove). Yelahanka\, Bengaluru.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jairaj & Apeksha wedding is tomorrow
+END:VALARM
+END:VEVENT
+END:VCALENDAR
